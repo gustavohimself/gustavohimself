@@ -7,8 +7,8 @@
 ### <h2>📊 My Github Stats</h2>
 <div align="left">
   <a href="https://github.com/gustavohimself">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohimself&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohimself&layout=compact&langs_count=7&theme=tokyonight&"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gustavohimself&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gustavohimself&layout=compact&langs_count=7&theme=tokyonight&"/>
 </div>
 
 ### <h2>⚒️ Technologies and tools</h2>
